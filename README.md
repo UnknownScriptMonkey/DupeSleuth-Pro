@@ -5,6 +5,11 @@ DupeSleuth Pro is a Windows desktop tool that helps you clean up massive folders
 
 It’s designed for speed, accuracy, and full control.
 
+REQUIRES!!!
+NET 8 Desktop Runtime or SDk
+Download from
+https://dotnet.microsoft.com/download/dotnet/8.0
+
 🔍 What It Does
 • Scans any folder (and all its subfolders) for photos and videos — .jpg, .jpeg, .png, .gif, .mp4, .mov
 • Finds exact duplicates using cryptographic SHA-256 hashing for 100% accuracy.
