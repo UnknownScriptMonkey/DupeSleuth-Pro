@@ -29,3 +29,5 @@ It’s designed for speed, accuracy, and full control.
 • Perfect for photographers, videographers, or anyone with huge media archives.
 • Helps reclaim disk space and organize messy folders without risking important files.
 • Works entirely offline, directly on your local drives — no cloud, no uploads.
+
+FFmpeg.exe Included.
